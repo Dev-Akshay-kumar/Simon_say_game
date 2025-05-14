@@ -15,8 +15,8 @@ document.addEventListener("keypress",function(){
     {
         console.log("game is start");
         started=true;
-    }
     levelUP();
+    }
 })
 
 function btnFlash(btn){
